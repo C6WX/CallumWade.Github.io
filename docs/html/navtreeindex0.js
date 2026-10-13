@@ -1,0 +1,20 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"classes.html":[0,1],
+"files.html":[1,0],
+"functions.html":[0,2,0],
+"functions_vars.html":[0,2,1],
+"globals.html":[1,1,0],
+"globals_func.html":[1,1,1],
+"index.html":[],
+"math__utils_8cpp.html":[1,0,0],
+"math__utils_8cpp.html#a2682da5e8a67f74aed0fc41b0b79866d":[1,0,0,3],
+"math__utils_8cpp.html#a8922c2824d95041d50aa2316bde1163d":[1,0,0,1],
+"math__utils_8cpp.html#ad857095435400a1b14a66afc6c09595f":[1,0,0,2],
+"math__utils_8cpp_source.html":[1,0,0],
+"pages.html":[],
+"struct_vector2_d.html":[0,0,0],
+"struct_vector2_d.html#a85215519d3f71d0e6be7d636346f3b7d":[0,0,0,1],
+"struct_vector2_d.html#aeb4253ba6555251d010ea4450619029e":[0,0,0,0]
+};
